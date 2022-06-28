@@ -14,3 +14,5 @@ I make sure I seprarate from urgent, most important, important and less importan
 * Here are some of my weak competency:
 ## 1. Listening, 
 ## 2. Creative
+
+Here is the link to my live website: https://github.com/timothee2022
