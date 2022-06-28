@@ -13,5 +13,4 @@ I make sure I seprarate from urgent, most important, important and less importan
 
 * Here are some of my weak competency:
 ## 1. Listening, 
-## 2. Teamwork
-## 3. Creative
+## 2. Creative
